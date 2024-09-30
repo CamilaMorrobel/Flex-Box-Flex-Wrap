@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background: black;
+}
+
+.contrainer{
+    background: #202020;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100vh;
+    flex-wrap: wrap;
+    
+}
+
+
+.uno {
+    background: #eb469e;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+}
+
+.dos{
+    background: #823c61;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+}
+
+.tres{
+    background: #703976;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+}
+
+.cuatro{
+    background: #603976;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+}
+
+
